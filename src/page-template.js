@@ -10,6 +10,7 @@ const genetateAbout = aboutText =>{
   `;
   
 };
+
 const generateProjects = projectsArr => {
   return `
     <section class="my-3" id="portfolio">
